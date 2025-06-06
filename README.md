@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud based Projects**
 
-- 🤝 I’m looking for help with **Rust**
+- 🤝 I’m looking for help with **Kubernetes & Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashknth](https://github.com/ashknth)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ashoknth/](https://www.linkedin.com/in/ashoknth/)
 
-- ⚡ Fun fact **I always think I am energetic!!**
+- ⚡ Fun fact **You have a lot of time to do it !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
