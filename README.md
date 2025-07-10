@@ -1,25 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ashok Nath</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **CI/CD using AWS**
 
-- 🌱 I’m currently learning **AWS, Azure, GCP**
-
-- 👯 I’m looking to collaborate on **Cloud based Projects**
-
-- 🤝 I’m looking for help with **Kubernetes & Terraform**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ashknth](https://github.com/ashknth)
+- 👯 I’m looking to collaborate on **New Role**
 
 - 📝 I regularly write articles on [https://ashoknath.com.np/](https://ashoknath.com.np/)
-
-- 💬 Ask me about **C, C++ and Java**
 
 - 📫 How to reach me **ashoknath2076@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ashoknth/](https://www.linkedin.com/in/ashoknth/)
-
-- ⚡ Fun fact **You have a lot of time to do it !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
