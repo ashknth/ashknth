@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **ashoknath2076@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashoknth/](https://www.linkedin.com/in/ashoknth/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
