@@ -6,7 +6,6 @@
 
 - 📝 I regularly write articles on [https://ashoknath.com.np/](https://ashoknath.com.np/)
 
-- 📫 How to reach me **ashok.nath.tech@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
